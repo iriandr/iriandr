@@ -18,6 +18,10 @@ Currently learning: Git & GitHub workflows
 - Docker
 - *(more coming as I progress)*
 
+## Blog
+
+- [Why I'm Learning DevOps in Public](https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d) — first post, intro
+
 ## Projects
 
 *(links will appear here as I complete each stage)*
