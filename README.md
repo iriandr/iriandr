@@ -20,11 +20,12 @@ Currently learning: Git & GitHub workflows
 
 ## Blog
 
-- [Why I'm Learning DevOps in Public](https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d) — first post, intro
+- [My First Git Merge Conflict (On Purpose)](https://dev.to/iriandr/my-first-git-merge-conflict-on-purpose-17m0)
+- [Why I'm Learning DevOps in Public](https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d)
 
 ## Projects
 
-*(links will appear here as I complete each stage)*
+- [git-basics-lab](https://github.com/iriandr/git-basics-lab) — practicing branches, merge conflicts, and PR workflow
 
 ## Contact
 
