@@ -6,8 +6,8 @@ Aspiring DevOps Engineer, learning in public
 I write about what I learn — articles coming soon
 Пишу статьи о том, что изучаю — скоро здесь появятся ссылки
 
-Currently learning: Git & GitHub workflows
-Сейчас изучаю: Git & GitHub workflows
+Currently learning: Docker & CI/CD
+Сейчас изучаю: Docker и CI/CD
 
 ---
 
