@@ -25,6 +25,7 @@ Currently learning: Git & GitHub workflows
 
 ## Projects
 
+- [docker-basics-lab](https://github.com/iriandr/docker-basics-lab) — Flask app with Redis, containerized with Docker and docker-compose
 - [git-basics-lab](https://github.com/iriandr/git-basics-lab) — practicing branches, merge conflicts, and PR workflow
 
 ## Contact
