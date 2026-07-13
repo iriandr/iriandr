@@ -20,6 +20,7 @@ Currently learning: Docker & CI/CD
 
 ## Blog
 
+- [Containers, Compose, and a Counter That Actually Persists](https://dev.to/iriandr/containers-compose-and-a-counter-that-actually-persists-434b)
 - [My First Git Merge Conflict (On Purpose)](https://dev.to/iriandr/my-first-git-merge-conflict-on-purpose-17m0)
 - [Why I'm Learning DevOps in Public](https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d)
 
