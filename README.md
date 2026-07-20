@@ -6,8 +6,8 @@ Aspiring DevOps Engineer, learning in public
 I write about what I learn — articles coming soon
 Пишу статьи о том, что изучаю — скоро здесь появятся ссылки
 
-Currently learning: Docker & CI/CD
-Сейчас изучаю: Docker и CI/CD
+Currently learning: Kubernetes
+Сейчас изучаю: Kubernetes
 
 ---
 
@@ -20,6 +20,7 @@ Currently learning: Docker & CI/CD
 
 ## Blog
 
+- [A 500 Error Taught Me More Than a Green Checkmark Would Have](https://dev.to/iriandr/a-500-error-taught-me-more-than-a-green-checkmark-would-have-3040)
 - [Containers, Compose, and a Counter That Actually Persists](https://dev.to/iriandr/containers-compose-and-a-counter-that-actually-persists-434b)
 - [My First Git Merge Conflict (On Purpose)](https://dev.to/iriandr/my-first-git-merge-conflict-on-purpose-17m0)
 - [Why I'm Learning DevOps in Public](https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d)
